@@ -4,6 +4,10 @@
   "description": "VSCodium port of the popular VSCode extension to batch-rename files",
   "version": "1.0.0",
   "publisher": "DrInfinite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrInfinite/batch-rename.git"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
